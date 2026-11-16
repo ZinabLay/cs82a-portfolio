@@ -1,3 +1,3 @@
-# Module 4
+# Module 3
 
-This folder contains my Module 4 assignments and projects.
+This folder contains my Module 3 assignments and projects.
